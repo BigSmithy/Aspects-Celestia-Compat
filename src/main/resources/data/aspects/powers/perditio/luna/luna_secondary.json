@@ -18,8 +18,8 @@
         "bar_index":9
     },
     "key": {
-        "key": "key.origins.quaternary_active"
+        "key": "key.origins.quinary_active"
     },
     "name":"Dark Shroud",
-    "description":"With your secondary ability, you can disperse a shroud of wither with your [Quaternary] key."
+    "description":"With your secondary ability, you can disperse a shroud of wither with your [quinary] key."
 }

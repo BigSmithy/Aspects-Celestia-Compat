@@ -2,10 +2,10 @@
     "type": "origins:toggle",
     "active_by_default": false,
     "key": {
-      "key":"key.origins.ternary_active",
+      "key":"key.origins.quaternary_active",
       "continuous": false
     },
   "retain_state": false,
   "name":"Invisibility",
-  "description":"As your primary ability, you can toggle invisibility with your [Ternary] key."
+  "description":"As your primary ability, you can toggle invisibility with your [Quaternary] key."
 }

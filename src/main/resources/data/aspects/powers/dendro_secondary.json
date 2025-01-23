@@ -21,8 +21,8 @@
         "bar_index":8
     },
     "key": {
-        "key": "key.origins.quaternary_active"
+        "key": "key.origins.quinary_active"
     },
     "name":"Friendly Assistance",
-    "description":"As your secondary ability, you can spawn in a temporary (20 second lifespan) Iron Golem to help you fight off enemies with your [Quaternary] key."
+    "description":"As your secondary ability, you can spawn in a temporary (20 second lifespan) Iron Golem to help you fight off enemies with your [Quinary] key."
 }

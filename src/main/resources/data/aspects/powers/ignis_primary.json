@@ -19,7 +19,7 @@
         "inverted":true
     }
 },
-"key":"key.origins.ternary_active",
+"key":"key.origins.quaternary_active",
     "name":"Ignition",
-    "description":"Using your primary active ability, you can light yourself on fire for a short duration, granting you an attack buff with your [Ternary] key."
+    "description":"Using your primary active ability, you can light yourself on fire for a short duration, granting you an attack buff with your [Quaternary] key."
 }

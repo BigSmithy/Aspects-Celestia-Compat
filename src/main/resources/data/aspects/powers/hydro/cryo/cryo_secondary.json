@@ -34,9 +34,9 @@
         "inverted":true
     },
         "key": {
-            "key": "key.origins.quaternary_active"
+            "key": "key.origins.quinary_active"
         },
         "name":"Icy Aura",
-        "description":"With your [Quaternary] key, you can deal six points of freeze damage to those around you within an 8 block radius."
+        "description":"With your [Quinary] key, you can deal six points of freeze damage to those around you within an 8 block radius."
 
 }

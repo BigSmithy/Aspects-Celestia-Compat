@@ -30,8 +30,8 @@
     "sprite_location":"origins:textures/gui/community/huang/resource_bar_02.png",
     "bar_index":15
     },
-    "key": "key.origins.quaternary_active",
+    "key": "key.origins.quinary_active",
     "cooldown": 900,
     "name":"Ring of Fire",
-    "description":"As your secondary ability, you can light entities around you on fire for a few seconds with your [Quaternary] key."
+    "description":"As your secondary ability, you can light entities around you on fire for a few seconds with your [Quinary] key."
 }

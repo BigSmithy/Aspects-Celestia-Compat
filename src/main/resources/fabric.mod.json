@@ -3,15 +3,16 @@
   "id": "aspects",
   "version": "${version}",
 
-  "name": "Aspects",
-  "description": "An element-based Origins addon for the Fabric modloader.",
+  "name": "Aspects - Celestia Edition",
+  "description": "An element-based Origins addon altered for the Celestia SMP modpack.",
   "authors": [
-    "Fishplex"
+    "Fishplex (original creator)",
+    "Gæmer"
   ],
   "contact": {
-    "homepage": "https://github.com/Fishplex/Aspects",
-    "sources": "https://github.com/Fishplex/Aspects",
-    "issues": "https://github.com/Fishplex/Aspects/issues"
+    "homepage": "https://github.com/BigSmithy/Aspects-Celestia-Compat",
+    "sources": "https://github.com/BigSmithy/Aspects-Celestia-Compat",
+    "issues": "https://github.com/BigSmithy/Aspects-Celestia-Compat/issues"
   },
 
   "license": "CC0-1.0",
@@ -34,6 +35,10 @@
     "java": ">=17",
     "extrakeybinds":"*",
     "origins": ">=1.10.0"
+  },
+
+  "suggests": {
+    "terraoriginum": "*"
   }
 
   

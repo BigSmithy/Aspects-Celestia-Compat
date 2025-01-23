@@ -51,8 +51,8 @@
         "bar_index":3
 
     },
-    "key": "key.origins.quaternary_active",
+    "key": "key.origins.quinary_active",
         "cooldown": 700,
         "name":"Raging Gales",
-        "description":"As your secondary ability, you can push enemies away by a few blocks whilst healing yourself and dealing damage to others with your [Quaternary] key."
+        "description":"As your secondary ability, you can push enemies away by a few blocks whilst healing yourself and dealing damage to others with your [Quinary] key."
     }

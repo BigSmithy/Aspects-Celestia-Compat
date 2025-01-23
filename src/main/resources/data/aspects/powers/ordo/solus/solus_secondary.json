@@ -52,8 +52,8 @@
         "bar_index":20
     },
     "key": {
-        "key": "key.origins.quaternary_active"
+        "key": "key.origins.quinary_active"
     },
     "name":"Icarus",
-    "description":"Send all surrounding enemies multiple blocks into the air, and then light them on fire with your [Quaternary] key. They shouldn't have strayed so close to the sun!"
+    "description":"Send all surrounding enemies multiple blocks into the air, and then light them on fire with your [Quinary] key. They shouldn't have strayed so close to the sun!"
 }

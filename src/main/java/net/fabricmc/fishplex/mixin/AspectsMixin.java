@@ -12,5 +12,6 @@ public class AspectsMixin {
 	@Inject(at = @At("HEAD"), method = "init()V")
 	private void init(CallbackInfo info) {
 		Aspects.LOGGER.info("Hello from Aspects! :D");
+		Aspects.LOGGER.info("and hello from the Celestia team, too");
 	}
 }
