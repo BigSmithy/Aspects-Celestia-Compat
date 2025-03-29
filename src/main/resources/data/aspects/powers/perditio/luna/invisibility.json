@@ -1,6 +1,6 @@
 {
     "type": "origins:invisibility",
-    "render_armor": false,
+    "render_armor": true,
     "condition": {
             "type": "origins:power_active",
             "power": "aspects:perditio/luna/luna_primary"
